@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Taller2-TBD/colectorTwitter/src/main/java"/>
+	<classpathentry kind="src" path="Taller2-TBD/colectorTwitter/src/test/java"/>
+	<classpathentry excluding="Taller1db/TBD/" kind="src" path="Taller2-TBD/src/main/java"/>
+	<classpathentry kind="src" path="Taller2-TBD/src/main/java/Taller1db/TBD"/>
+	<classpathentry kind="src" path="Taller2-TBD/src/test/java"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="Taller2-TBD/colectorTwitter/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="Taller2-TBD/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="Taller2-TBD/colectorTwitter/bin/main"/>
+</classpath>

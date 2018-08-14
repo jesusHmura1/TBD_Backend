@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-Start-Class: Taller1db.TBD.TbdApplication
-Main-Class: org.springframework.boot.loader.WarLauncher
-
